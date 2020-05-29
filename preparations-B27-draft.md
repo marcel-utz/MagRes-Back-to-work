@@ -96,9 +96,7 @@ user, thus limiting the risk of surface transmission.
 
 The task is to put away all items currently lying around. They do not need to be
 sanitised at this point, since they have not been handled in months.
-### Another Section
-
-### Personal Protective Equipment
+### Another Section Personal Protective Equipment
 The task consists in making sure that all PPE equipment is in place, and
 easily accessible for anyone entering the lab.
 
