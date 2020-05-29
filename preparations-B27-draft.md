@@ -97,7 +97,7 @@ user, thus limiting the risk of surface transmission.
 The task is to put away all items currently lying around. They do not need to be
 sanitised at this point, since they have not been handled in months.
 
-### PPE (Personal Protective Equipment)
+### PPE Personal Protective Equipment
 
 **Gloves.** There will be a strict glove and sanitation policy in place in the NMR labs.
 An area on a table near the entrance door in each lab will be designated
