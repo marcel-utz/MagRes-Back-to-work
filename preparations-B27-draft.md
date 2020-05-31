@@ -7,11 +7,13 @@ Draft: 31-5-2020
 | :------------- | :-------------        |:------------- |:------------- |
 | **27-1005**    | de-clutter            |               | Marek |
 |                | clean surfaces        |               | Marek |
+|                | flush heat press cooling |           | Marek |
 |                | PPE                   |               |
 |||||
 | **27-1009**    | de-clutter            |               | Patra |
 |                | clean surfaces        |               | Patra |
 |                | reboot incubators     |               | Patra |
+|                | reboot laser cutter   |               | ?     |
 |                | PPE                   |               | Patra |
 |||||
 | **27-1097**    | de-clutter HP lab     |               | Francesco |
@@ -97,8 +99,16 @@ user, thus limiting the risk of surface transmission.
 The task is to put away all items currently lying around. They do not need to be
 sanitised at this point, since they have not been handled in months.
 
-### PPE Personal Protective Equipment
-The task consists in making sure that all PPE equipment is in place, and
+#### Checklist
+- [ ] Lab checked for obvious signs of damage, water leaks, etc
+- [ ] Work surfaces clear of hand tools, writing utensils, connectors, etc
+- [ ] Water taps flushed for at least 1 min (hot and cold)
+- [ ] Chemicals properly stored
+- [ ] Solvent bottles checked for damage
+- [ ] Ether bottles (THF, diethyl ether) checked for peroxides
+
+### Protective Equipment
+The task consists in making sure that all protective equipment is in place, and
 easily accessible for anyone entering the lab.
 
 **Gloves.** There will be a strict glove and sanitation policy in place in the NMR labs.
@@ -107,9 +117,16 @@ where gloves and hand sanitiser will be provided, along with a bin for
 disposal of gloves. The task is to ensure that  this is in place.
 
 **Safety Goggles.** Various labs have a box where a number of safety goggles
-are stored for shared use. This is obviously no longer appropriate in the current
-situation. All safety goggles will be removed from the labs, and users will be
-expected to bring their own, labelled pair.
+are stored for shared use. This is obviously problematic in the current
+situation. Safety googles must be disinfected after use before being placed
+back in to the container.
+
+#### Checklist
+- [ ] First aid equipment in place and in date
+- [ ] Fire extinguishers in place and in date
+- [ ] Lab gloves available
+- [ ] Hand disinfectant available
+- [ ] Safety goggles container in place
 
 ### Clean surfaces
 All work surfaces need to be wiped down with isopropanol regularly. This includes
@@ -129,3 +146,21 @@ The task consists in doing this for the first time. After that, each user
 will do the same at the end of their shift to the surfaces that they have used.
 In addition, a complete surface wipe down of each lab will be done regularly
 (e.g., once a week)
+
+#### Checklist
+- [ ] Benchtops and desk surfaces wiped down
+- [ ] Major instrument keypads etc wiped down (where possible)
+- [ ] Computer keyboards and mice wiped down
+- [ ] Door handles wiped down
+- [ ] Floor cleaned (wet/hoover as appropriate)
+
+### Instrumentation
+Instruments and electrical appliances must be checked for damage; some of
+them may require some maintenance before they can be used again. The
+checklist covers basic labs
+
+#### Checklist
+- [ ] Fridges and freezers: checked for function and ice-buildup
+- [ ] Oil-based vacuum pumps: oil quality checked
+- [ ] PAT testing in date for all applicances
+- [ ] Instruments with water cooling checked for mold/algae
