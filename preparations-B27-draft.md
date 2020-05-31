@@ -1,5 +1,5 @@
-# Return-To-Work Preparations
-Draft: 29-5-2020
+# MagRes Return-To-Work Preparations
+Draft: 31-5-2020
 
 ## Synopsis
 
@@ -47,13 +47,13 @@ Draft: 29-5-2020
 
 ## Access
 The preparation tasks will be carried out by key users, which are already
-approved for building access. The above schedule is to be adhered to
-strictly; any changes need to be discussed beforehand with the head of section.
+approved for building access. The above schedule is to be strictly adhered to;
+any changes need to be discussed beforehand with the head of section.
 The established procedures for access need to be followed (email to Sally Dady,
 sign in/out at the night entrance).
 
 ## Work Protocols
-Since the goal is to provide a clean (e.g, virus-free) work environment,
+Since the goal is to provide a clean (i.e., virus-free) work environment,
 it is necessary to adhere to very strict hygiene protocols while carrying out
 these preparation tasks. This means that
 - **face masks** need to be worn at all times while in B27
@@ -97,7 +97,7 @@ user, thus limiting the risk of surface transmission.
 The task is to put away all items currently lying around. They do not need to be
 sanitised at this point, since they have not been handled in months.
 
-### PPE (Personal Protective Equipment)
+### PPE Personal Protective Equipment
 The task consists in making sure that all PPE equipment is in place, and
 easily accessible for anyone entering the lab.
 
@@ -106,8 +106,8 @@ An area on a table near the entrance door in each lab will be designated
 where gloves and hand sanitiser will be provided, along with a bin for
 disposal of gloves. The task is to ensure that  this is in place.
 
-**Safety Goggles.** Various labs have a box where a number of saftey goggles
-were stored for shared use. This is obviously no longer appropriate in the current
+**Safety Goggles.** Various labs have a box where a number of safety goggles
+are stored for shared use. This is obviously no longer appropriate in the current
 situation. All safety goggles will be removed from the labs, and users will be
 expected to bring their own, labelled pair.
 
@@ -117,8 +117,13 @@ All work surfaces need to be wiped down with isopropanol regularly. This include
 - desks
 - handles on doors (e.g., spectrometer consoles, cabinets, etc)
 - computer mice and keyboards
-- keypads and handles on instruments (oscilloscpes, etc)
+- keypads and handles on instruments (oscilloscopes, etc)
 - microscopes (control surfaces and oculars)
+
+If the lab has a linoleum floor, this also includes wet cleaning of the floor
+(mop and bucket is available in 27-2005). In the case of carpeted NMR
+labs, this includes hoovering (I believe a hoover is available in
+Weidong's office)
 
 The task consists in doing this for the first time. After that, each user
 will do the same at the end of their shift to the surfaces that they have used.
