@@ -1,7 +1,7 @@
 # MagRes Return-To-Work Preparations
 Draft: 1-6-2020
 
-## Key User Access
+## Key Users
 
 ### possibly available
 - Laurynas
@@ -16,19 +16,19 @@ Draft: 1-6-2020
 - Marcel Utz
 - Malcolm Levitt
 - Marek Plata
-- Manvendra Sharma (furlough)
-- Patra (furlough)
 
 
 ### not available
-- Laurynas (?)
-- Francesco
+- Francesco (contract ended 31/5)
 - Marina cannot access building (missing ID card)
 - Sylwia
 - Soumya (furlough)
 - Manvendra Sharma (furlough)
 - Patra (furlough)
 
+## Issues To Be Clarified
+- How are PPE supplies distributed from chemistry stores?
+- How are sharps containers disposed of in chemistry?
 
 ## Access
 The preparation tasks will be carried out by key users, which are already
@@ -90,7 +90,7 @@ sanitised at this point, since they have not been handled in months.
 - [ ] Solvent bottles checked for damage
 - [ ] Ether bottles (THF, diethyl ether) checked for peroxides
 
-### Protective Equipment
+### Protective Equipment
 The task consists in making sure that all protective equipment is in place, and
 easily accessible for anyone entering the lab.
 
@@ -151,38 +151,41 @@ checklist covers basic labs
 
 ## Schedule
 
-| Laboratory     | Task                  | When          | Who            |
+| Laboratory     | Task                  | When          | Who            | 
 | :------------- | :-------------        |:------------- |:------------- |
-| **27-1005**    | de-clutter            |               | Marek |
+| **27-1005**    | PPE                   |               | Weidong  |
+|                | de-clutter            |               | Marek |
 |                | de-clutter PH2        |               | Laurynas |
 |                | clean surfaces        |               | Marek |
 |                | instrumentation        |               | Marek |
 |                | flush heat press cooling |           | Marek |
-|                | PPE                   |               |
 |||||
-| **27-1009**    | de-clutter            |               | Evie |
+| **27-1009**    | PPE                   |               | Weidong     |
+|                | de-clutter            |               | Evie |
 |                | clean surfaces        |               | Evie |
 |                | reboot incubators     |               | Evie |
 |                | reboot laser cutter   |   Phase I?    | Marek     |
 |                | PPE                   |               | Evie |
 |||||
-| **27-1097**    | de-clutter HP lab     |               | Peppe |
+| **27-1097**    | PPE                   |               | Weidong |
+|                | de-clutter HP lab     |               | Peppe |
 |                | clean surfaces HP     |               | Peppe |
-|                | de-clutter 300,700 spectrometer |     | Giulia         |
-|                | clean surfaces spectrometers    |     | Giulia         |
-|                | PPE |  | Giulia |
+|                | de-clutter 300,700 spectrometer |     | Giulia     |
+|                | clean surfaces spectrometers    |     | Giulia     |
 |||||
-| **27-1085**    | de-clutter            |               | George    |
+| **27-1085**    | PPE                   |               | Weidong   |
+|                | de-clutter            |               | George    |
 |                | clean surfaces        |               |George|
 |                | PPE                   |               |           |
 |||||
-| **27-1119**    | rearrange desks       |  29/5 am      | Weidong   |
-|                | de-clutter spectrometers |            | Laurynas         |
-|                | de-clutter workbench     |            | Laurynas         |
-|                | clean surfaces          |             | Laurynas         |
-|                | PPE                     |
+| **27-1119**    | rearrange desks       |  29/5 am      | Weidong    |
+|                | PPE                     |             | Weidong    |
+|                | de-clutter spectrometers |            | Laurynas   |
+|                | de-clutter workbench     |            | Laurynas   |
+|                | clean surfaces          |             | Laurynas   |
 |||||
-| **27-1141**    | door signage            |
+| **27-1141**    | PPE                     |             | Weidong    |
+|                | door signage            |             |             |
 |                | clean surfaces | | Jörn/Phil |
 |  prep lab      | follow up drain pump    |             | Weidong   |
 |  prep lab      | de-clutter              |             | Phil/Jörn    |
