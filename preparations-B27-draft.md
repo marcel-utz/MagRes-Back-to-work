@@ -1,51 +1,34 @@
 # MagRes Return-To-Work Preparations
-Draft: 31-5-2020
+Draft: 1-6-2020
 
-## Synopsis
+## Key User Access
 
-| Laboratory     | Task                  | When          | Who            |
-| :------------- | :-------------        |:------------- |:------------- |
-| **27-1005**    | de-clutter            |               | Marek |
-|                | clean surfaces        |               | Marek |
-|                | flush heat press cooling |           | Marek |
-|                | PPE                   |               |
-|||||
-| **27-1009**    | de-clutter            |               | Patra |
-|                | clean surfaces        |               | Patra |
-|                | reboot incubators     |               | Patra |
-|                | reboot laser cutter   |               | ?     |
-|                | PPE                   |               | Patra |
-|||||
-| **27-1097**    | de-clutter HP lab     |               | Francesco |
-|                | clean surfaces HP     |               | Francesco |
-|                | de-clutter 300,700 spectrometer |     | ?         |
-|                | clean surfaces spectrometers    |     | ?         |
-|                | PPE |
-|||||
-| **27-1085**    | de-clutter            |               | George    |
-|                | clean surfaces        |               |           |
-|                | PPE                   |               |           |
-|||||
-| **27-1119**    | rearrange desks       |  29/5 am      | Weidong   |
-|                | de-clutter spectrometers |            | ?         |
-|                | de-clutter workbench     |            | ?         |
-|                | clean surfaces          |             | ?         |
-|                | PPE                     |
-|||||
-| **27-1141**    | door signage            |
-|                | PPE |
-|                | clean surfaces |
-|  office area   | move 600LS workstation  |             | ?         |
-|  prep lab      | follow up drain pump    |             | Weidong   |
-|  prep lab      | de-clutter              |             | ?         |
-|  prep lab      | clean surfaces          |             | ?         |
-|  600 LS        | de-clutter |
-|  400 SS        | de-clutter |
-|  600 SS        | de-clutter |
-|||||
-| **27-1045**    | de-clutter |   coordination with Hayden group            | ?         |
-|                | clean surfaces |      | |
-|                | PPE            |      | |
+### possibly available
+- Laurynas
+- Jyrkii
+- James Whipham
+- George (not on key users?)
+- Christian Bengs
+- Giulia Melchiorre
+- Phil Williamson
+- Jörn Werner
+- Peppe Pileio
+- Marcel Utz
+- Malcolm Levitt
+- Marek Plata
+- Manvendra Sharma (furlough)
+- Patra (furlough)
+
+
+### not available
+- Laurynas (?)
+- Francesco
+- Marina cannot access building (missing ID card)
+- Sylwia
+- Soumya (furlough)
+- Manvendra Sharma (furlough)
+- Patra (furlough)
+
 
 ## Access
 The preparation tasks will be carried out by key users, which are already
@@ -164,3 +147,52 @@ checklist covers basic labs
 - [ ] Oil-based vacuum pumps: oil quality checked
 - [ ] PAT testing in date for all applicances
 - [ ] Instruments with water cooling checked for mold/algae
+
+
+## Schedule
+
+| Laboratory     | Task                  | When          | Who            |
+| :------------- | :-------------        |:------------- |:------------- |
+| **27-1005**    | de-clutter            |               | Marek |
+|                | de-clutter PH2        |               | Laurynas |
+|                | clean surfaces        |               | Marek |
+|                | instrumentation        |               | Marek |
+|                | flush heat press cooling |           | Marek |
+|                | PPE                   |               |
+|||||
+| **27-1009**    | de-clutter            |               | Evie |
+|                | clean surfaces        |               | Evie |
+|                | reboot incubators     |               | Evie |
+|                | reboot laser cutter   |   Phase I?    | Marek     |
+|                | PPE                   |               | Evie |
+|||||
+| **27-1097**    | de-clutter HP lab     |               | Peppe |
+|                | clean surfaces HP     |               | Peppe |
+|                | de-clutter 300,700 spectrometer |     | Giulia         |
+|                | clean surfaces spectrometers    |     | Giulia         |
+|                | PPE |  | Giulia |
+|||||
+| **27-1085**    | de-clutter            |               | George    |
+|                | clean surfaces        |               |George|
+|                | PPE                   |               |           |
+|||||
+| **27-1119**    | rearrange desks       |  29/5 am      | Weidong   |
+|                | de-clutter spectrometers |            | Laurynas         |
+|                | de-clutter workbench     |            | Laurynas         |
+|                | clean surfaces          |             | Laurynas         |
+|                | PPE                     |
+|||||
+| **27-1141**    | door signage            |
+|                | clean surfaces | | Jörn/Phil |
+|  prep lab      | follow up drain pump    |             | Weidong   |
+|  prep lab      | de-clutter              |             | Phil/Jörn    |
+|  prep lab      | clean surfaces          |             | Phil/Jörn    |
+|  prep lab      | sharp disposal          |             |             |
+|  prep lab       | vacuum pump, glove box  |  Phase I    |           |
+|  600 LS        | de-clutter | | Jörn |
+|  400 SS        | de-clutter | | Phil |
+|  600 SS        | de-clutter | | Phil |
+|||||
+| **27-1045**    | de-clutter |   coordination with Hayden group            | Malcolm?         |
+|                | clean surfaces |      | |
+|                | PPE            |      | |
