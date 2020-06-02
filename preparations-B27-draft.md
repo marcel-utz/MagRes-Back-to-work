@@ -7,7 +7,7 @@ Draft: 1-6-2020
 - Laurynas
 - Jyrkii
 - James Whipham
-- George (not on key users?)
+- George
 - Christian Bengs
 - Giulia Melchiorre
 - Phil Williamson
@@ -109,6 +109,8 @@ back in to the container.
 - [ ] Fire extinguishers in place and in date
 - [ ] Lab gloves available
 - [ ] Hand disinfectant available
+- [ ] Paper for wipe-downs available
+- [ ] Spray bottle with 70%IPA or 70%EtOH available
 - [ ] Safety goggles container in place
 
 ### Clean surfaces
@@ -145,57 +147,53 @@ checklist covers basic labs
 #### Checklist
 - [ ] Fridges and freezers: checked for function and ice-buildup
 - [ ] Oil-based vacuum pumps: oil quality checked
-- [ ] PAT testing in date for all applicances
+- [ ] PAT testing in date for all appliances
 - [ ] Instruments with water cooling checked for mold/algae
 
-
 ## Schedule
-
-| Laboratory     | Task                  | When          | Who            | 
-| :------------- | :-------------        |:------------- |:------------- |
-| **27-1005**    | PPE                   |               | Weidong  |
-|                | de-clutter            |               | Marek |
-|                | de-clutter PH2        |               | Laurynas |
-|                | clean surfaces        |               | Marek |
-|                | instrumentation        |               | Marek |
-|                | flush heat press cooling |           | Marek |
-|||||
-| **27-1009**    | PPE                   |               | Weidong     |
-|                | de-clutter            |               | Evie |
-|                | clean surfaces        |               | Evie |
-|                | reboot incubators     |               | Evie |
+| Laboratory     | Task                  | When         | Who            | Notes 
+| :------------ | :-------------       |:------------- |:------------- | :------
+| **27-1005**    | PPE                   | 4/6 am        | Weidong  | <ul><li> gloves and hand sanitiser delivered to Weidong's office by stores on 3/6
+|                | de-clutter            |  8/6 am             | Marek |
+|                | de-clutter PH2        |  5/6 pm            | Laurynas | *only* pH2 bench
+|                | clean surfaces        |  8/6 am            | Marek |
+|                | instrumentation        | 8/6 am             | Marek |
+|                | flush heat press cooling |  8/6 am          | Marek |
+|
+| **27-1009**    | PPE                   |   4/6 am      | Weidong     |
+|                | de-clutter            |    8/6 am           | Evie |
+|                | clean surfaces        |    8/6 am           | Evie |
+|                | reboot incubators     |    8/6 am           | Evie |
 |                | reboot laser cutter   |   Phase I?    | Marek     |
-|                | PPE                   |               | Evie |
 |||||
-| **27-1097**    | PPE                   |               | Weidong |
-|                | de-clutter HP lab     |               | Peppe |
-|                | clean surfaces HP     |               | Peppe |
-|                | de-clutter 300,700 spectrometer |     | Giulia     |
-|                | clean surfaces spectrometers    |     | Giulia     |
+| **27-1097**    | PPE                   |  4/6 am       | Weidong |
+|                | de-clutter HP lab     |  8/6 pm             | Peppe |
+|                | clean surfaces HP     |  8/6 pm             | Peppe |
+|                | de-clutter 300,700 spectrometer |  4/6 pm   | Giulia     |
+|                | clean surfaces spectrometers    |  4/6 pm   | Giulia     |
 |||||
-| **27-1085**    | PPE                   |               | Weidong   |
-|                | de-clutter            |               | George    |
-|                | clean surfaces        |               |George|
-|                | PPE                   |               |           |
+| **27-1085**    | PPE                   |   4/6 am      | Weidong   |
+|                | de-clutter            |   4/6 pm            | George    |
+|                | clean surfaces        |   4/6 pm            |George |
 |||||
 | **27-1119**    | rearrange desks       |  29/5 am      | Weidong    |
-|                | PPE                     |             | Weidong    |
-|                | de-clutter spectrometers |            | Laurynas   |
-|                | de-clutter workbench     |            | Laurynas   |
-|                | clean surfaces          |             | Laurynas   |
+|                | PPE                   |   4/6 am           | Weidong    |
+|                | de-clutter spectrometers | 5/6 am           | James   | LN2 fill at the same time |
+|                | de-clutter workbench     | 5/6 am           | James   |
+|                | clean surfaces          |  5/6 pm           | Laurynas   |
 |||||
-| **27-1141**    | PPE                     |             | Weidong    |
+| **27-1141**    | PPE                     |  4/6 am            | Weidong    |
 |                | door signage            |             |             |
-|                | clean surfaces | | Jörn/Phil |
+|                | clean surfaces | 5/6 pm | Jörn/Phil |
 |  prep lab      | follow up drain pump    |             | Weidong   |
-|  prep lab      | de-clutter              |             | Phil/Jörn    |
-|  prep lab      | clean surfaces          |             | Phil/Jörn    |
-|  prep lab      | sharp disposal          |             |             |
+|  prep lab      | de-clutter              |  9/6 am           | Phil/Jörn    |
+|  prep lab      | clean surfaces          |  9/6 am           | Phil/Jörn    |
+|  prep lab      | sharp disposal          |  9/6 am           |             |
 |  prep lab       | vacuum pump, glove box  |  Phase I    |           |
-|  600 LS        | de-clutter | | Jörn |
-|  400 SS        | de-clutter | | Phil |
-|  600 SS        | de-clutter | | Phil |
+|  600 LS        | de-clutter | 5/6 pm | Jörn |
+|  400 SS        | de-clutter | 4/6 pm | Phil |
+|  600 SS        | de-clutter | 4/6 pm | Phil |
 |||||
-| **27-1045**    | de-clutter |   coordination with Hayden group            | Malcolm?         |
-|                | clean surfaces |      | |
-|                | PPE            |      | |
+| **27-1045**    | PPE                  |  4/6 am      | Weidong |
+|                | de-clutter |   coordination with Hayden group            | Lynda Brown     |
+|                | clean surfaces |      | Lynda Brown|
