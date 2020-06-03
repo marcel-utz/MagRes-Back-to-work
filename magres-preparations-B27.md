@@ -1,9 +1,18 @@
-# MagRes Return-To-Work Preparations
-Draft: 3-6-2020
+# MagRes Return-To-Work Preparation
+Current as of: 3-6-2020
+
+## Synopsis
+In order to enable a safe return to experimental work in the MagRes facility
+laboratories, a number of preparatory steps have to be carried out. These ensure
+that necessary safety equipment is in place, and that working under the sanitary
+restrictions that have become necessary is possible. This work will be organised
+in separate tasks, as detailed below, to be carried out in each of our laboratories.
+Each task is assigned to a researcher that has been identified as key access
+user during the lockdown period.
 
 ## Key Users
 
-### possibly available
+### available in principle
 - Laurynas
 - Jyrkii
 - James Whipham
@@ -25,10 +34,6 @@ Draft: 3-6-2020
 - Soumya (furlough)
 - Manvendra Sharma (furlough)
 - Patra (furlough)
-
-## Issues To Be Clarified
-- How are PPE supplies distributed from chemistry stores?
-- How are sharps containers disposed of in chemistry?
 
 ## Access
 The preparation tasks will be carried out by key users, which are already
@@ -108,6 +113,7 @@ back in to the container.
 - [ ] First aid equipment in place and in date
 - [ ] Fire extinguishers in place and in date
 - [ ] Lab gloves available
+- [ ] Face masks available
 - [ ] Hand disinfectant available
 - [ ] Paper for wipe-downs available
 - [ ] Spray bottle with 70%IPA or 70%EtOH available
@@ -124,8 +130,8 @@ All work surfaces need to be wiped down with isopropanol regularly. This include
 
 If the lab has a linoleum floor, this also includes wet cleaning of the floor
 (mop and bucket is available in 27-2005). In the case of carpeted NMR
-labs, this includes hoovering (I believe a hoover is available in
-Weidong's office)
+labs, this includes hoovering. Most NMR labs have a Hoover available for this
+purpose.
 
 The task consists in doing this for the first time. After that, each user
 will do the same at the end of their shift to the surfaces that they have used.
@@ -133,7 +139,7 @@ In addition, a complete surface wipe down of each lab will be done regularly
 (e.g., once a week)
 
 #### Checklist
-- [ ] Benchtops and desk surfaces wiped down
+- [ ] Benchtops and desk surfaces wiped down with IPA or 70% ethanol
 - [ ] Major instrument keypads etc wiped down (where possible)
 - [ ] Computer keyboards and mice wiped down
 - [ ] Door handles wiped down
@@ -163,27 +169,31 @@ checklist covers basic labs
 | **27-1009**    | PPE                   |   4/6 am      | Weidong     |
 |                | de-clutter            |    8/6 am           | Evie |
 |                | clean surfaces        |    8/6 am           | Evie |
+|                | instrumentation       |    8/6 am           | Evie |
 |                | reboot incubators     |    8/6 am           | Evie |
 |                | reboot laser cutter   |   Phase I?    | Marek     |
 ||||||
 | **27-1097**    | PPE                   |  4/6 am       | Weidong |
 |                | de-clutter HP lab     |  8/6 pm             | Peppe |
 |                | clean surfaces HP     |  8/6 pm             | Peppe |
+|                | instrumentation       |  8/6 pm             | Peppe |
 |                | de-clutter 300,700 spectrometer |  4/6 pm   | Giulia     |
 |                | clean surfaces spectrometers    |  4/6 pm   | Giulia     |
 ||||||
 | **27-1085**    | PPE                   |   4/6 am      | Weidong   |
 |                | de-clutter            |   4/6 pm            | George    |
-|                | clean surfaces        |   4/6 pm            |George |
+|                | instrumentation       |   4/6 pm            | George    |
+|                | clean surfaces        |   4/6 pm            | George |
 ||||||
 | **27-1119**    | rearrange desks       |  29/5 am      | Weidong    |
 |                | PPE                   |   4/6 am           | Weidong    |
 |                | de-clutter spectrometers | 5/6 am           | James   | LN2 fill at the same time |
 |                | de-clutter workbench     | 5/6 am           | James   |
+|                | instrumentation          | 5/6 pm           | Laurynas   |
 |                | clean surfaces          |  5/6 pm           | Laurynas   |
 ||||||
 | **27-1141**    | PPE                     |  4/6 am            | Weidong    |
-|                | door signage            |             |             |
+|                | door signage            |  4/6 am           |    Peppe        |
 |                | clean surfaces | 5/6 pm | Jörn/Phil |
 |  prep lab      | follow up drain pump    |             | Weidong   |
 |  prep lab      | de-clutter              |  4/6 pm           |   Jörn    |
@@ -198,8 +208,9 @@ checklist covers basic labs
 |                | de-clutter |   coordination with Hayden group            | Lynda Brown     |
 |                | clean surfaces |      | Lynda Brown|
 
-<sup>1</sup> am: arrival any time after 8.30; departure any time before 12.30
+<sup>1</sup> am: arrival between 8.30 and 9.00; departure between 12.00 and 12.30
 
-<sup>2</sup> pm: arrival any time after 13.00; departure any time before 17.30
+<sup>2</sup> pm: arrival between 13.00 and 13.30; departure between 16.30
+and 17.00
 
 [[Category:COVID-19]]
