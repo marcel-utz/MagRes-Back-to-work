@@ -186,13 +186,13 @@ checklist covers basic labs
 |                | door signage            |             |             |
 |                | clean surfaces | 5/6 pm | Jörn/Phil |
 |  prep lab      | follow up drain pump    |             | Weidong   |
-|  prep lab      | de-clutter              |  9/6 am           | Phil/Jörn    |
-|  prep lab      | clean surfaces          |  9/6 am           | Phil/Jörn    |
-|  prep lab      | sharp disposal          |  9/6 am           |             |
+|  prep lab      | de-clutter              |  4/6 pm           |   Jörn    |
+|  prep lab      | clean surfaces          |  4/6 pm           |   Jörn    |
+|  prep lab      | sharp disposal          |  4/6 pm           |  Jörn     |
 |  prep lab       | vacuum pump, glove box  |  Phase I    |           |
-|  600 LS        | de-clutter | 5/6 pm | Jörn |
-|  400 SS        | de-clutter | 4/6 pm | Phil |
-|  600 SS        | de-clutter | 4/6 pm | Phil |
+|  600 LS        | de-clutter | 4/6 pm | Jörn |
+|  400 SS        | de-clutter | 5/6 pm | Phil |
+|  600 SS        | de-clutter | 5/6 pm | Phil |
 |||||
 | **27-1045**    | PPE                  |  4/6 am      | Weidong |
 |                | de-clutter |   coordination with Hayden group            | Lynda Brown     |
@@ -201,3 +201,5 @@ checklist covers basic labs
 <sup>1</sup> am: arrival any time after 8.30; departure any time before 12.30
 
 <sup>2</sup> pm: arrival any time after 13.00; departure any time before 17.30
+
+[[Category:COVID-19]]
