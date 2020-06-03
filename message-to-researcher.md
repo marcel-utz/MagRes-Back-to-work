@@ -13,7 +13,9 @@ intranet site at this link. Please fill out the checklist (by clicking "edit"
 at the appropriate section) when you are done with a task, and enter your name
 and the date/time.
 
-Access to building follows the established protocol, with the exception that you
+For your information, the full schedule for these preparations can be accessed here.
+
+Access to building follows the established key user access protocol, with the exception that you
 do not have to send an email to Sally Dady; she will be informed of the plan
 centrally.
 
